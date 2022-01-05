@@ -8,7 +8,7 @@ Some Configs for the TwoTrees Sapphire Plus
 - The config file **"robin_nano35_cfg.txt"** can be used to build a "stock" and original Firmware at: https://baizhongyun.cn/home/mkstoolview
 - Visit the site, choose at "Board series" "MKS Robin series" -- at "Board Type" "MKS Robin Nano V1.x-TFT35" -- at "Firmware Type" choose "MKS Robin Nano Firmware 2.0.x"
 - (optional) At the next step you can add a new Bootscreen to your Printer, just click on the pictures.
-- To load the right settings for our Sapphire Plus (Version V3, look ath WTF?!) you go to "Configuration File" next to "Display UI" and "Export"
+- To load the right settings for our Sapphire Plus (Version V3, look at WTF?!) you go to "Configuration File" next to "Display UI" and "Export"
 - Click at "Import file" and choose the **robin_nano35_cfg.txt**
 - All necessary setting for the Sapphire Plus will be loaded and can be changed at your will. Like E-Steps an so on. 
 - **If you dont change any settings you get a pure, stock firmware for your printer**
