@@ -12,7 +12,7 @@ Some Configs for the TwoTrees Sapphire Plus
 - Click at "Import file" and choose the **robin_nano35_cfg.txt**
 - All necessary setting for the Sapphire Plus will be loaded and can be changed after your gusto. Like E-Steps an so on. 
 - **If you dont change any settings you get a pure, stock firmware for your printer**
-- Just click at "Export" and set all Options. Unzip the Files, copy it on a SD-Card, put it in the printer and "Engage!"
+- Just click "Export" and set all Options. Unzip the Files, copy it on a SD-Card, put it in the printer and "Engage!"
 - Power on the printer and wait for install. 
 - Have fun and happy printing!
 - **But you can just use THIS:** https://github.com/herbstleyd/TwoTrees-Sapphire-Plus-Firmware---MKS-Std -- It´s my ready to use MKS Firmware for the Sapphire Plus V3
