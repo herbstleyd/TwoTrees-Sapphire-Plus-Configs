@@ -4,7 +4,7 @@ Some Configs for the TwoTrees Sapphire Plus
 - **Sapphire-Plus-Cura-Profile.3mf** -- Ultimaker Cura Profil Std. from TwoTrees
 - **robin_nano35_cfg.txt** -- Original Config for Sapphire Plus dual Z-Motor + Belt-Sync and one Z-Stop Version "V3", ready to write your own MKS Firmware
 - **sapphire_plus_herbstleyd_prusaslicer.ini** -- Prusaslicer Profile for Sapphire Plus 
-# How to use the config to build my own firmware
+# How to use the config to build your own firmware
 - The config file **"robin_nano35_cfg.txt"** can be used to build a "stock" and original Firmware at: https://baizhongyun.cn/home/mkstoolview
 - Visit the site, choose at "Board series" "MKS Robin series" -- at "Board Type" "MKS Robin Nano V1.x-TFT35" -- at "Firmware Type" choose "MKS Robin Nano Firmware 2.0.x"
 - (optional) At the next step you can add a new Bootscreen to your Printer, just click on the pictures.
