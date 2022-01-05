@@ -10,7 +10,7 @@ Some Configs for the TwoTrees Sapphire Plus
 - (optional) At the next step you can add a new Bootscreen to your Printer, just click on the pictures.
 - To load the right settings for our Sapphire Plus (Version V3, look at WTF?!) you go to "Configuration File" next to "Display UI" and "Export"
 - Click at "Import file" and choose the **robin_nano35_cfg.txt**
-- All necessary setting for the Sapphire Plus will be loaded and can be changed at your will. Like E-Steps an so on. 
+- All necessary setting for the Sapphire Plus will be loaded and can be changed after your gusto. Like E-Steps an so on. 
 - **If you dont change any settings you get a pure, stock firmware for your printer**
 - Just click at "Export" and set all Options. Unzip the Files, copy it on a SD-Card, put it in the printer and "Engage!"
 - Power on the printer and wait for install. 
