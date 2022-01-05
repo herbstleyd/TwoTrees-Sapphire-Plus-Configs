@@ -15,7 +15,7 @@ Some Configs for the TwoTrees Sapphire Plus
 - Just click at "Export" and set all Options. Unzip the Files, copy it on a SD-Card, put it in the printer and "Engage!"
 - Power on the printer and wait for install. 
 - Have fun and happy printing!
-- **But you can just use THIS:** https://github.com/herbstleyd/TwoTrees-Sapphire-Plus-Firmware---MKS-Std -- It´s my ready to use Firmware for the Sapphire Plus V3
+- **But you can just use THIS:** https://github.com/herbstleyd/TwoTrees-Sapphire-Plus-Firmware---MKS-Std -- It´s my ready to use MKS Firmware for the Sapphire Plus V3
 - ## Support me
 - I really want to dive deeper in the Marlin Firmware story on the MKS Nano Boards. But i cant flash my Board in my Printer all the time. I need a spare Board with Display for the development. If u have a spare coin, send it via PayPay at https://paypal.me/TheoRadical?country.x=DE&locale.x=de_DE
 - Thank You!
