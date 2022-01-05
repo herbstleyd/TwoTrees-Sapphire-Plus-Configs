@@ -10,7 +10,8 @@ Some Configs for the TwoTrees Sapphire Plus
 - At the next step you can add a new Bootscreen to your Printer, just click on the pictures.
 - To load the right settings for our Sapphire Plus (Version V3, look ath WTF?!) you go to "Configuration File" next to "Display UI" and "Export"
 - Click at "Import file" and choose the **robin_nano35_cfg.txt**
-- All necessary setting for the Sapphire Plus will be loaded and can be changed at your will. Like E-Steps an so on. **if you dont change any settings you get a purly stock Firmware for your printer++
+- All necessary setting for the Sapphire Plus will be loaded and can be changed at your will. Like E-Steps an so on. 
+- **If you dont change any settings you get a purly stock Firmware for your printer**
 - Have fun and happy printing!
 - ## Support me
 - I really want to dive deeper in the Marlin Firmware story on the MKS Nano Boards. But i cant flash my Board in my Printer all the time. I need a spare Board with Display for the development. If u have a spare coin, send it via PayPay at https://paypal.me/TheoRadical?country.x=DE&locale.x=de_DE
